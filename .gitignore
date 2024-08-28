@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/Megascans
+Content/Megascans/3D_Assets/Desert_Western_Rock_Medium_03_xgkmfcy/MI_Desert_Western_Rock_Medium_03_xgkmfcy_8K.uasset
+Content/Megascans/3D_Assets/Desert_Western_Rock_Medium_03_xgkmfcy/S_Desert_Western_Rock_Medium_03_xgkmfcy_high.uasset
+Content/Megascans/3D_Assets/Desert_Western_Rock_Medium_03_xgkmfcy/T_Desert_Western_Rock_Medium_03_xgkmfcy_8K_D.uasset
+/Content/Megascans
+/Content/Megascans
+/Content/Megascans
